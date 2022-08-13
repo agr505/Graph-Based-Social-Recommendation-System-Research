@@ -1,6 +1,6 @@
 # Polarization-in-SocialRec
 In Data-Transformation-Code folder
-
+0) Unzip the zip files
 1) Run gen_socialadj_listsv2.py
 2) Run format_tweetersv3_compressed.py
 
@@ -28,4 +28,6 @@ B) Split training data 1/4 goint into history lists, 3/4 held out:
 
 
 6) Copy gendata folder over to GraphRec-WWW19 folder
-7) Run GraphRec.py
+
+7) Run either Debug_GraphRec.py or Tune_GraphRec.py
+
