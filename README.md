@@ -4,6 +4,7 @@ In Data-Transformation-Code folder
 1) Run gen_socialadj_listsv2.py
 2) Run format_tweetersv3_compressed.py
 
+-------------------------------------------
 Choose to either:
 
 A) Put all training data into history lists:
